@@ -2,6 +2,8 @@
 
 Short project notes for the Roll a Ball project I made in 2016 following the Unity Learn tutorial: https://learn.unity.com/project/roll-a-ball
 
+![Level02](img/level02.png)
+
 ## About
 A small learning project made while following the official Unity "Roll-a-Ball" tutorial. The game is a simple ball-rolling collect-the-pickups demo.
 
